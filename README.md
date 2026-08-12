@@ -13,7 +13,9 @@ Computer Science Engineer — Universidad Nacional de Loja, Loja, Ecuador
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,nextjs,express,pytorch,flask,flutter,mysql,sqlite,mariadb,git,docker,matlab,vscode" alt="Skills" />
 </p>
+
 ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+
 ## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lordrilo)
