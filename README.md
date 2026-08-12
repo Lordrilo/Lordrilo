@@ -11,7 +11,7 @@ Computer Science Engineer — Universidad Nacional de Loja, Loja, Ecuador
 ## 🛠 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,mysql,sqlite,git,docker,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,nextjs,express,pytorch,flask,flutter,mysql,sqlite,mariadb,git,huggingface,docker,matlab,vscode" alt="Skills" />
 </p>
 
 ## 🔗 Links
