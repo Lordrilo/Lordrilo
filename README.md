@@ -32,6 +32,8 @@ Computer Science Engineer — Universidad Nacional de Loja, Loja, Ecuador
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" /></a>
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=md" /></a>
 </p>
 
 ## 🔗 Links
